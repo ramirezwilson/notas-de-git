@@ -20,6 +20,8 @@ alias
 
 ```git config --global alias.<el alias> <los comando que resume el alias>``` Esta es la estructura para colocar alias a los comandos.
 
+*Nota: Si son mas de dos comando colocarlo entre commillas doble.
+
 
 ### Primeros comandos de unicio.
 
@@ -211,4 +213,6 @@ en la los servicios de git gub podemos introducirnos a los tags y poder crear un
 
 ___
 # Seccion 7 - GitHub Basico
+
+*
 
